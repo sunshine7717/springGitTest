@@ -20,6 +20,7 @@ public class CarFactory {
 	}
 	
 	
+	
 	// 1.创建一个学生类(Student), 包含属性:名字(string),学号(integer).创建方式:构造函数注入;
 	// 2.创建一个教师类(Teacher), 包含属性:名字(string),工号(integer),学生(Student).创建方式:setter注入;
 	// 3.创建一个教室类(Classroom).创建方式: 静态工厂.
